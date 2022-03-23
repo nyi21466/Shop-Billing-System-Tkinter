@@ -1,0 +1,1 @@
+Rice = ,10000,Peal De Sein = ,6000,Fried Peas = ,4500,Egg = ,160
