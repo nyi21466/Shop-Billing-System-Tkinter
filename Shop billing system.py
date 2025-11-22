@@ -286,7 +286,7 @@ var4 = IntVar()
 
 TF = Frame(s,height = 60,width = 1290, bg = 'black',highlightbackground = "cyan",highlightthickness = 3)
 TF.place(x=30,y=10)
-L1 = Label(TF, text ="Ko Toke Gyi Bussiness", fg = 'white',bg = 'black' ,font = 'Times 25 bold', width = "62",justify = CENTER)
+L1 = Label(TF, text ="Shop Management System", fg = 'white',bg = 'black' ,font = 'Times 25 bold', width = "62",justify = CENTER)
 L1.place( x=0, y =0)
 F1 = Frame(s,height = 450,width = 425, bg = 'black',highlightbackground = "red",highlightthickness = 3)
 F1.place(x=30,y=80)
